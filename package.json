@@ -35,7 +35,7 @@
     "intl": "1.2.5",
     "primeicons": "1.0.0",
     "primeng": "^7.0.0",
-    "prismjs": "1.15.0",
+    "prismjs": "1.24.0",
     "quill": "1.1.8",
     "rxjs": "6.4.0",
     "web-animations-js": "github:angular/web-animations-js#release_pr208",
